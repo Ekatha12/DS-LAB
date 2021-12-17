@@ -1,0 +1,6 @@
+red 30
+yellow 50
+blue 78
+green 88
+pink 77
+black 56
